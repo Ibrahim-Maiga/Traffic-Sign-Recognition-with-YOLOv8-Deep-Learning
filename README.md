@@ -1,3 +1,5 @@
+Dataset (Kaggle Road Sign Detection): https://www.kaggle.com/datasets/andrewmvd/road-sign-detection
+
 # Traffic Sign Segmentation and Classification using YOLOv8 
 
 This repository contains the code and results for a traffic sign segmentation and classification project using the YOLOv8 model on a dataset of road signs. The dataset includes four distinct classes: Traffic Light, Stop, Speed Limit, and Crosswalk. The project was carried out in three stages: an initial evaluation of a pre-trained YOLOv8n model, fine-tuning with data augmentation, and final re-training with additional augmentations.
